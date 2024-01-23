@@ -7,7 +7,7 @@ title:            Emre Tezel
 tagline:          ''
 description:      'Kişisel web sitesi.'
 url:              https://e-tezel.github.io/
-baseurl:          /
+baseurl:          
 
 author:
   name:           'Mark Otto'
