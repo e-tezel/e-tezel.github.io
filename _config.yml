@@ -4,14 +4,13 @@ highlighter:      pygments
 
 # Setup
 title:            Emre Tezel
-tagline:          ''
-description:      'Kişisel web sitesi.'
+tagline:          'Personal website'
+description:      'Personal website.'
 url:              https://e-tezel.github.io/
 baseurl:          
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Emre Tezel'
 
 paginate:         5
 
@@ -19,4 +18,6 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  profile:           https://github.com/poole/hyde
+
+linkedin:         https://www.linkedin.com/in/emre-tezel/
